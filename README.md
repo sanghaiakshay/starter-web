@@ -15,3 +15,8 @@ Just to show the demo for diff
 This is a simple project, deployment can be on any webserver
 
 ## How to contribute
+
+
+### Copyright
+
+Git training
